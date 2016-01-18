@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ AllMinionState\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=AllMinionState()
+comment2.params=minion
+comment2.target=AllMinionState(MinionContext)
+comment3.params=x\ y
+comment3.target=void\ grow(int,\ int)
+comment4.params=x\ y
+comment4.target=void\ shrink(int,\ int)
+numComments=5

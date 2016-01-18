@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=myworld
+comment0.target=MyGameCommand(MyWorld)
+comment1.params=
+comment1.target=void\ execute()
+numComments=2

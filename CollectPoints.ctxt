@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CollectPoints()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CollectPoints\r\n
+comment1.params=noOfBanana
+comment1.target=void\ collectBanana(int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n
+comment2.params=noOfLives
+comment2.target=void\ collectLives(int)
+comment3.params=bulletCount
+comment3.target=void\ decreaseAmmo(int)
+numComments=4

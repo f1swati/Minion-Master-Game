@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Scarlet()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ deathAnimation()
+comment3.params=
+comment3.target=void\ moveEnemy()
+comment4.params=
+comment4.target=void\ playsound()
+comment5.params=
+comment5.target=boolean\ intersectssomething()
+comment6.params=
+comment6.target=void\ attackminion()
+comment7.params=damage
+comment7.target=void\ hit(int)
+numComments=8

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ resetStaticVariables()
+comment0.text=\r\n\ Creates\ a\ scrolling\ world\ using\ a\ main\ actor,\ a\ background,\ some\ obstacles,\ and\ a\ non-scrolling\ score.\r\n
+comment1.params=
+comment1.target=void\ rebuild()
+comment2.params=
+comment2.target=MyWorld()
+comment3.params=
+comment3.target=void\ setStage()
+comment4.params=x\ y
+comment4.target=void\ addDecoratedBricks(int,\ int)
+comment5.params=
+comment5.target=void\ updatePointScoreboard()
+comment6.params=x\ y
+comment6.target=void\ addBricks(int,\ int)
+comment7.params=
+comment7.target=void\ addScoreboard()
+comment8.params=
+comment8.target=void\ resetScore()
+numComments=9

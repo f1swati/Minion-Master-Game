@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EvilMinion()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Calls\ the\ necessary\ methods\ to\ move\ the\ ghoomba,\ animate\ it\ and\ decide\ whether\ or\ not\ it\ has\ been\ hit\r\n
+comment2.params=
+comment2.target=void\ moveEnemy()
+numComments=3

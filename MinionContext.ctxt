@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=MinionContext()
+comment10.params=
+comment10.target=MinionInterface\ getMinionGun()
+comment2.params=w
+comment2.target=MinionContext(greenfoot.World)
+comment3.params=
+comment3.target=MinionContext\ getInstanceMinion()
+comment4.params=w
+comment4.target=MinionContext\ getInstanceCurrentState(greenfoot.World)
+comment5.params=w
+comment5.target=void\ shrink(greenfoot.World)
+comment6.params=w
+comment6.target=void\ grow(greenfoot.World)
+comment7.params=state
+comment7.target=void\ setState(MinionInterface)
+comment8.params=
+comment8.target=MinionInterface\ getMinion()
+comment9.params=
+comment9.target=MinionInterface\ getMinionSmall()
+numComments=11
